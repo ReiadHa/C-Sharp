@@ -1,0 +1,15 @@
+C:\Users\redah\OneDrive - Da Vinci College\A Mbo4\c#\Hello CSharp\Hello CSharp\bin\Debug\net6.0\Hello CSharp.exe
+C:\Users\redah\OneDrive - Da Vinci College\A Mbo4\c#\Hello CSharp\Hello CSharp\bin\Debug\net6.0\Hello CSharp.deps.json
+C:\Users\redah\OneDrive - Da Vinci College\A Mbo4\c#\Hello CSharp\Hello CSharp\bin\Debug\net6.0\Hello CSharp.runtimeconfig.json
+C:\Users\redah\OneDrive - Da Vinci College\A Mbo4\c#\Hello CSharp\Hello CSharp\bin\Debug\net6.0\Hello CSharp.dll
+C:\Users\redah\OneDrive - Da Vinci College\A Mbo4\c#\Hello CSharp\Hello CSharp\bin\Debug\net6.0\ref\Hello CSharp.dll
+C:\Users\redah\OneDrive - Da Vinci College\A Mbo4\c#\Hello CSharp\Hello CSharp\bin\Debug\net6.0\Hello CSharp.pdb
+C:\Users\redah\OneDrive - Da Vinci College\A Mbo4\c#\Hello CSharp\Hello CSharp\obj\Debug\net6.0\Hello CSharp.csproj.AssemblyReference.cache
+C:\Users\redah\OneDrive - Da Vinci College\A Mbo4\c#\Hello CSharp\Hello CSharp\obj\Debug\net6.0\Hello CSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\redah\OneDrive - Da Vinci College\A Mbo4\c#\Hello CSharp\Hello CSharp\obj\Debug\net6.0\Hello CSharp.AssemblyInfoInputs.cache
+C:\Users\redah\OneDrive - Da Vinci College\A Mbo4\c#\Hello CSharp\Hello CSharp\obj\Debug\net6.0\Hello CSharp.AssemblyInfo.cs
+C:\Users\redah\OneDrive - Da Vinci College\A Mbo4\c#\Hello CSharp\Hello CSharp\obj\Debug\net6.0\Hello CSharp.csproj.CoreCompileInputs.cache
+C:\Users\redah\OneDrive - Da Vinci College\A Mbo4\c#\Hello CSharp\Hello CSharp\obj\Debug\net6.0\Hello CSharp.dll
+C:\Users\redah\OneDrive - Da Vinci College\A Mbo4\c#\Hello CSharp\Hello CSharp\obj\Debug\net6.0\ref\Hello CSharp.dll
+C:\Users\redah\OneDrive - Da Vinci College\A Mbo4\c#\Hello CSharp\Hello CSharp\obj\Debug\net6.0\Hello CSharp.pdb
+C:\Users\redah\OneDrive - Da Vinci College\A Mbo4\c#\Hello CSharp\Hello CSharp\obj\Debug\net6.0\Hello CSharp.genruntimeconfig.cache

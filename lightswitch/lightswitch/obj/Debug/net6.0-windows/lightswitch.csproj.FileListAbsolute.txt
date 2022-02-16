@@ -1,0 +1,17 @@
+C:\Users\redah\OneDrive - Da Vinci College\A Mbo4\c#\lightswitch\lightswitch\bin\Debug\net6.0-windows\lightswitch.exe
+C:\Users\redah\OneDrive - Da Vinci College\A Mbo4\c#\lightswitch\lightswitch\bin\Debug\net6.0-windows\lightswitch.deps.json
+C:\Users\redah\OneDrive - Da Vinci College\A Mbo4\c#\lightswitch\lightswitch\bin\Debug\net6.0-windows\lightswitch.runtimeconfig.json
+C:\Users\redah\OneDrive - Da Vinci College\A Mbo4\c#\lightswitch\lightswitch\bin\Debug\net6.0-windows\lightswitch.dll
+C:\Users\redah\OneDrive - Da Vinci College\A Mbo4\c#\lightswitch\lightswitch\bin\Debug\net6.0-windows\ref\lightswitch.dll
+C:\Users\redah\OneDrive - Da Vinci College\A Mbo4\c#\lightswitch\lightswitch\bin\Debug\net6.0-windows\lightswitch.pdb
+C:\Users\redah\OneDrive - Da Vinci College\A Mbo4\c#\lightswitch\lightswitch\obj\Debug\net6.0-windows\lightswitch.csproj.AssemblyReference.cache
+C:\Users\redah\OneDrive - Da Vinci College\A Mbo4\c#\lightswitch\lightswitch\obj\Debug\net6.0-windows\lightswitch.Form1.resources
+C:\Users\redah\OneDrive - Da Vinci College\A Mbo4\c#\lightswitch\lightswitch\obj\Debug\net6.0-windows\lightswitch.csproj.GenerateResource.cache
+C:\Users\redah\OneDrive - Da Vinci College\A Mbo4\c#\lightswitch\lightswitch\obj\Debug\net6.0-windows\lightswitch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\redah\OneDrive - Da Vinci College\A Mbo4\c#\lightswitch\lightswitch\obj\Debug\net6.0-windows\lightswitch.AssemblyInfoInputs.cache
+C:\Users\redah\OneDrive - Da Vinci College\A Mbo4\c#\lightswitch\lightswitch\obj\Debug\net6.0-windows\lightswitch.AssemblyInfo.cs
+C:\Users\redah\OneDrive - Da Vinci College\A Mbo4\c#\lightswitch\lightswitch\obj\Debug\net6.0-windows\lightswitch.csproj.CoreCompileInputs.cache
+C:\Users\redah\OneDrive - Da Vinci College\A Mbo4\c#\lightswitch\lightswitch\obj\Debug\net6.0-windows\lightswitch.dll
+C:\Users\redah\OneDrive - Da Vinci College\A Mbo4\c#\lightswitch\lightswitch\obj\Debug\net6.0-windows\ref\lightswitch.dll
+C:\Users\redah\OneDrive - Da Vinci College\A Mbo4\c#\lightswitch\lightswitch\obj\Debug\net6.0-windows\lightswitch.pdb
+C:\Users\redah\OneDrive - Da Vinci College\A Mbo4\c#\lightswitch\lightswitch\obj\Debug\net6.0-windows\lightswitch.genruntimeconfig.cache
